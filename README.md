@@ -1,0 +1,1 @@
+# true-npm-package-boilerplate-example-core
