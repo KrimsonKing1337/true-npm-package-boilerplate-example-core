@@ -1,3 +1,7 @@
 .Wrapper {
-  border: 1px red solid;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100px;
+  margin: 10px;
 }
